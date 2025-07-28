@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sabbir4916&label=Profile+Views&color=0e75b6&style=flat" alt="Sabbir4916" />
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi+I'm+Sabbir+Ahmed;Laravel+%7C+PHP+%7C+Web+Developer;Flutter+%7C+Dart+%7C+C+%7C+Python;Clean+Code+%7C+Creative+Solutions" alt="Typing SVG" />
 </h1>
@@ -57,12 +53,6 @@
   <img src="https://streak-stats.demolab.com?user=Sabbir4916&theme=react" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir4916&layout=compact&theme=react" width="45%" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-✅%20Auto-Fetched-blue?logo=github&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repo-count/Sabbir4916?style=for-the-badge&logo=github" />
-</p>
-
 
 ---
 
