@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+I'm+Sabbir+Ahmed;Laravel+%7C+PHP+%7C+Web+Developer;Clean+Code+%7C+Creative+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi+I'm+Sabbir+Ahmed;Laravel+%7C+PHP+%7C+Web+Developer;Flutter+%7C+Dart+%7C+C+%7C+Python;Clean+Code+%7C+Creative+Solutions" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <a href="mailto:ahmed15-4916@diu.edu.bd"><img src="https://img.shields.io/badge/Email-ahmed15--4916@diu.edu.bd-red?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -13,18 +14,21 @@
 
 ### 💼 About Me
 
-- 🎓 CSE Graduate | Daffodil International University
-- 💻 Laravel & PHP Developer passionate about web technologies
-- 🧠 Currently learning Livewire, Inertia.js, and Vue.js
-- ⚙️ Obsessed with clean UI, backend logic & Laravel best practices
+- 🎓 **CSE Graduate** from Daffodil International University (DIU), Bangladesh  
+- 💻 Passionate **Full Stack Developer** skilled in Laravel, PHP, MySQL, and Python  
+- 🧠 Proficient in **C** and **Python** for problem-solving and algorithmic thinking  
+- 🌱 Currently exploring **Livewire**, **Inertia.js**, and **Vue.js** to build dynamic UIs  
+- ⚙️ Enthusiastic about **clean code**, **modular backend architecture**, and **system optimization**  
+- 🚀 Always learning, building, and pushing boundaries to deliver meaningful digital solutions
 
 ---
 
 ### 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,tailwind,bootstrap,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,python,php,laravel,mysql,html,css,js,git,vscode" />
 </p>
+
 
 ---
 
@@ -33,12 +37,12 @@
 #### 🌍 [Let's Explore Bangladesh](https://github.com/Sabbir4916/Let-s_Explore_Bangladesh)
 > A Laravel-based travel website showcasing beautiful places in Bangladesh.  
 ✅ Place listings, session-based cart, weather API integration  
-🛠️ Laravel, PHP, Blade, Bootstrap, OpenWeather API
+🛠️ Laravel, PHP, Blade, OpenWeather API
 
 #### 🍽️ [Restaurant Reservation System](https://github.com/Sabbir4916/restaurant_reservation_system)
 > A simple web app to manage restaurant table bookings.  
 ✅ Reservation form, admin approval system, table management  
-🛠️ PHP, MySQL, Bootstrap
+🛠️ Flutter, Dart
 
 ---
 
@@ -59,13 +63,6 @@
   <a href="https://www.linkedin.com/in/sabbir-ahmed-65b817237/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.facebook.com/Sabbir.290/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
-
----
-
-### ⚡ Fun Fact
-
-> I love building apps that solve real-world problems.  
-> Coding at night with a cup of coffee is my favorite combo ☕🌙
 
 ---
 
