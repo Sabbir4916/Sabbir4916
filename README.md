@@ -14,7 +14,7 @@
 
 ### 💼 About Me
 
-- 🎓 **CSE Graduate** from Daffodil International University (DIU), Bangladesh  
+- 🎓 **CSE Student** from Daffodil International University, Bangladesh  
 - 💻 Passionate **Full Stack Developer** skilled in Laravel, PHP, MySQL, and Python  
 - 🧠 Proficient in **C** and **Python** for problem-solving and algorithmic thinking  
 - 🌱 Currently exploring **Livewire**, **Inertia.js**, and **Vue.js** to build dynamic UIs  
